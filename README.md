@@ -47,3 +47,4 @@ $ pip install -r requirements.txt
 ## *Author Name*
 
 [Ramon Ferreira](https://github.com/ramonfsk)
+# stardata
